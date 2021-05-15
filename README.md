@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ I'm currently pursuing an electronics degree from BITS Pilani
+- 🏀 Love playing basketball and tennis
+- 📚 Avid reader of books
+- 👨‍💻 Passionate web developer whose favourite tech stack is MERN
+
+
+## ![My github stats](https://github-readme-stats.vercel.app/api?username=ananth243)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananth243)](https://github.com/ananth243/github-readme-stats)
