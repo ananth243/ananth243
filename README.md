@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananth243&label=Profile%20views&color=0e75b6&style=flat" alt="ananth243" /> </p>
 
- <img src="images/programming-animate.svg" alt="ananth243" align="right" height="500px" />
-
 ### Hi there 👋
 
 - ⚡ I'm currently pursuing an electronics degree from BITS Pilani
