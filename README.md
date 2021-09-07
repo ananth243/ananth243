@@ -4,7 +4,6 @@
 
 - ⚡ I'm currently pursuing an electronics degree from BITS Pilani
 - 🏀 Love playing basketball and tennis
-- 📚 Avid reader of books
 - 👨‍💻 Passionate web developer whose favourite tech stack is MERN
 
 
