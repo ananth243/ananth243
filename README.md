@@ -5,31 +5,22 @@
 - ⚡ I'm currently pursuing an electronics degree from BITS Pilani
 - 🏀 Love playing basketball and tennis
 - 👨‍💻 Passionate web developer whose favourite tech stack is MERN
+- 💻 I am exploring software development
 
 
 
 ## 📈 Facts
-<details>
   <summary>📊 GitHub Stats</summary>
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananth243&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
-</details>
 
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ananth243's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth243&langs_count=10&layout=compact&theme=prussian" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-<details>
   <summary>⚡Activity</summary>
-  <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=ananth243&theme=red" /></a>
-</details>
 <br />
+<br/>
 ### 🛠 Tech Stack
-
+<br/>
 <br/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
