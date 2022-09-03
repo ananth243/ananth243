@@ -8,10 +8,8 @@
 - 💻 I am exploring software development
 
 
-
-## 📈 Facts
   <summary>📊 GitHub Stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananth243&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ananth243's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananth243&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ananth243's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth243&langs_count=10&layout=compact&theme=prussian" /></a>
@@ -19,7 +17,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=ananth243&theme=red" /></a>
 <br />
 <br/>
-### 🛠 Tech Stack
 <br/>
 <br/>
 
