@@ -29,4 +29,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananth243&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananth243&theme=react-dark)
